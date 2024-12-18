@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋,I'm Aakanksha
+## A passionate Computer Science student with an interest in web development, cybersecurity, and innovation. I'm currently pursuing my degree at Chitkara University.
 
-<!--
-**aakanksha80/aakanksha80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: Data Structure and Algorithms 
+- 📫 How to reach me: as4704312@gmail.com
+- 😄 Pronouns:She/Her
+
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/aakanksha-sharma2503)
+- [GitHub](https://github.com/aakanksha80)
+
+- Let's collaborate and create something amazing!
+
