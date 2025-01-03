@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakanksha Sharma</h1>
 <h3 align="center">Passionate Developer | Crafting Solutions and Embracing Innovation</h3>
 
-https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakanksha80&label=Profile%20views&color=0e75b6&style=flat" alt="aakanksha80" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakanksha80" alt="aakanksha80" /></a> </p>
