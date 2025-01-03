@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakanksha80&label=Profile%20views&color=0e75b6&style=flat" alt="aakanksha80" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakanksha80" alt="aakanksha80" /></a> </p>
+![248884004-af212da4-8588-4d7c-8400-16e56f2746a0](https://github.com/user-attachments/assets/2bf7a83a-7a26-4b85-8301-e33ac47760e7)
 
 - 🌱 I’m currently learning **Data Structures and algorithms**
 
