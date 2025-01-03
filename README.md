@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakanksha Sharma</h1>
 <h3 align="center">Passionate Developer | Crafting Solutions and Embracing Innovation</h3>
+![gif](https://github.com/user-attachments/assets/2a7776da-e980-44ec-ba74-1a4f028a8db4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakanksha80&label=Profile%20views&color=0e75b6&style=flat" alt="aakanksha80" /> </p>
 
