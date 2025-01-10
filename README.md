@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakanksha Sharma</h1>
 <h3 align="center">Passionate Developer | Crafting Solutions and Embracing Innovation</h3>
-<img src="https://in.pinterest.com/pin/254101603967648855/" alt="Coding">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakanksha80&label=Profile%20views&color=0e75b6&style=flat" alt="aakanksha80" /> </p>
 
