@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C/C++,Java,Frontend,Backend**
 
-- 📫 How to reach me **as4704312@gmail.com**
+- 📫 How to reach me **aakanksha.s0309@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/aakanksha-sharma2503](www.linkedin.com/in/aakanksha-sharma2503)
 
