@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **aakanksha.s0309@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/aakanksha-sharma2503](www.linkedin.com/in/aakanksha-sharma2503)
+- 📄 Know about my experiences [www.linkedin.com/in/aakanksha-sharma2503](www.linkedin.com/in/aakanksha-sharma0309)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
